@@ -7,7 +7,7 @@
   "devDependencies": {
     "@apollo/client": "3.5.10",
     "@apollo/federation": "0.36.1",
-    "@apollo/gateway": "2.0.1",
+    "@apollo/gateway": "2.10.5",
     "@swydo/apollo-link-ddp": "file:packages/apollo-link-ddp",
     "asteroid": "2.0.3",
     "body-parser": "1.20.0",
